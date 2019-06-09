@@ -1,2 +1,6 @@
 # hello-word
-我的第一个GitHub
+
+
+Hi My name is mengpingan
+
+This is my first GitHub project.
